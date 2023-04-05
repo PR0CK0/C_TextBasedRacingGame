@@ -1,0 +1,58 @@
+------ MANUAL RACE ------
+Place 1 - Jabba in car #9
+Place 2 - Kirk in car #6
+
+------ MANUAL RACE ------
+Place 1 - Jabba in car #9
+Place 2 - Kirk in car #6
+
+------- AUTO RACE -------
+Place 1 - Leia in car #8
+Place 2 - Spock in car #7
+Place 3 - Kirk in car #6
+Place 4 - Jabba in car #9
+
+------ MANUAL RACE ------
+Place 1 - Jabba in car #9
+Place 2 - Kirk in car #6
+
+------- AUTO RACE -------
+Place 1 - Jabba in car #9
+Place 2 - Leia in car #8
+Place 3 - Spock in car #7
+Place 4 - Kirk in car #6
+
+------ MANUAL RACE ------
+Place 1 - Leia in car #8
+Place 2 - Kirk in car #6
+
+------ MANUAL RACE ------
+Place 1 - Spock in car #7
+Place 2 - Leia in car #8
+
+------ MANUAL RACE ------
+Place 1 - Leia in car #8
+Place 2 - Spock in car #7
+
+------- AUTO RACE -------
+Place 1 - Jabba in car #9
+Place 2 - Spock in car #7
+Place 3 - Leia in car #8
+Place 4 - Kirk in car #6
+
+------ MANUAL RACE ------
+Place 1 - Spock in car #7
+Place 2 - Kirk in car #6
+
+------ MANUAL RACE ------
+Place 1 - Leia in car #8
+Place 2 - Kirk in car #6
+
+------ MANUAL RACE ------
+Place 1 - Kirk in car #6
+Place 2 - Jabba in car #9
+
+------ MANUAL RACE ------
+Place 1 - Kirk in car #6
+Place 2 - Leia in car #8
+

@@ -1,0 +1,4 @@
+Kirk             Porsche          6        Silver
+Spock            Ferrari          7        Red
+Leia             Lamborghini      8        Yellow
+Jabba            Ford             9        Black
